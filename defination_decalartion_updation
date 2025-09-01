@@ -1,0 +1,28 @@
+
+#include <iostream>
+using namespace std;
+
+int main()  {
+
+    //variable define 
+    int age = 19 ;
+    cout<<"My age is :"<<age<<endl;
+
+    //  decalartion 
+    int age; 
+     cout<<age ; // give garbage value bcz we does not define any value
+     
+
+    // defination 
+    int age = 19 ;
+    cout<<age<<endl;
+
+
+    // updation or manipulation 
+    
+    int  age = 101 ;
+    cout<<age<<endl;
+
+return 0;
+
+}
